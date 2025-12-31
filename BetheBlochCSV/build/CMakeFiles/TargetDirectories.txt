@@ -1,0 +1,3 @@
+/home/aditya/Desktop/Bethe_Bloch_Geant4/BetheBlochCSV/build/CMakeFiles/betheBloch.dir
+/home/aditya/Desktop/Bethe_Bloch_Geant4/BetheBlochCSV/build/CMakeFiles/edit_cache.dir
+/home/aditya/Desktop/Bethe_Bloch_Geant4/BetheBlochCSV/build/CMakeFiles/rebuild_cache.dir

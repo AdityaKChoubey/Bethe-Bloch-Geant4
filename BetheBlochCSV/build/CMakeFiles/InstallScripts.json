@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/aditya/Desktop/Bethe_Bloch_Geant4/BetheBlochCSV/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
